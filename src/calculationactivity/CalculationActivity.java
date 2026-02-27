@@ -4,8 +4,7 @@
  */
 package calculationactivity;
 
-/**
- *
+/*
  * @author alexe
  */
 public class CalculationActivity {
