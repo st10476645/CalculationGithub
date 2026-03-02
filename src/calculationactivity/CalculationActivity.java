@@ -17,6 +17,10 @@ public class CalculationActivity {
     */
     public static void main(String[] args) {
         // TODO code application logic here
+         System.out.println("Le repe tue la serpentine");
+         System.out.println("");
+        
+        
     }
     
 }
