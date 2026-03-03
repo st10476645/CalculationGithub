@@ -4,9 +4,7 @@
  */
 package calculationactivity;
 
-/*
- * @author alexe
- */
+
 public class CalculationActivity {
 
     /*
@@ -15,10 +13,10 @@ public class CalculationActivity {
     *
     * @param args the command line arguments
     */
-    public static void main(String[] args) {
+    public static void main() {
         // TODO code application logic here
          System.out.println("Le repe tue la serpentine");
-         System.out.println("");
+         System.out.println("Rien");
         
         
     }
