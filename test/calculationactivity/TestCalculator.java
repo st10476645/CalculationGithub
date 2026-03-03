@@ -12,7 +12,7 @@ public class TestCalculator {
     @Test 
     public void addTwoNumbers(){
         Calculator calculator = new Calculator();
-        assertEquals("1+1 should be equal 2", calculator.add(1,1));
+        assertEquals("1+1 = 2",2, calculator.add(1,1));
     }
     @Test 
     public void subtractNumbers(){
