@@ -16,7 +16,7 @@ public class CalculationActivity {
     public static void main() {
         // TODO code application logic here
          System.out.println("Le repe tue la serpentine");
-         System.out.println("Rien");
+         System.out.println("Test for one last time");
         
         
     }
